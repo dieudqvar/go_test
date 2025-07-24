@@ -4,3 +4,5 @@
 "-t: thresh of device"
 "-c total of request"
 "-d time process"
+
+The code may be optimized in the future to support more rate limits.
